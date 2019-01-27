@@ -1,0 +1,12 @@
+# IDE
+*.idea
+*.iml
+*.vscode
+
+# build
+node_modules
+static
+
+# yarn
+yarn.lock
+yarn-error.log

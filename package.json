@@ -1,0 +1,16 @@
+{
+    "name": "galaster.github.io",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev": "vuepress dev .",
+        "build": "vuepress build .",
+        "start": "yarn dev && start http://localhost:8080"
+    },
+    "dependencies": {
+        "@vutex/vuepress-theme-vutex": "^0.1.2"
+    },
+    "devDependencies": {
+        "vuepress": "^1.0.0-alpha.30"
+    }
+}
